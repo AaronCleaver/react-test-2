@@ -8,32 +8,32 @@ export const exercises = [
   },
   {
     id: "dips",
-    title: "",
-    description: "",
+    title: "Dips",
+    description: "do a dip",
     muscles: "arms"
   },
   {
     id: "barbell-curls",
-    title: "",
-    description: "",
+    title: "Barbell Curls",
+    description: "buff those arms",
     muscles: "arms"
   },
   {
     id: "bench-press",
-    title: "",
-    description: "",
+    title: "Bench Press",
+    description: "press that bench",
     muscles: "chest"
   },
   {
     id: "pull-ups",
-    title: "",
-    description: "",
+    title: "Pull ups",
+    description: "one for the core!",
     muscles: "chest"
   },
   {
     id: "deadlifts",
-    title: "",
-    description: "",
+    title: "Deadlifts",
+    description: "Dead? Lift! Bro!",
     muscles: "chest"
   }
 ];
